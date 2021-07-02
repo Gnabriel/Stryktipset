@@ -1,0 +1,189 @@
+{
+    "success": true,
+    "number_of_games": 13,
+    "info": "The results found here in are only to solve the assignment in the course DynWeb during the summer and are not the correct stryktipset data for the current week.",
+    "matches": [
+        {
+            "gameNumber": 1,
+            "opponents": {
+                "one": {
+                    "name": "Manch.U",
+                    "homepage": "https://www.manutd.com/"
+                },
+                "two": {
+                    "name": "Watford",
+                    "homepage": "https://www.watfordfc.com/"
+                }
+            },
+            "gameInfo": { "outcome": "1", "comment": "" }
+        },
+        {
+            "gameNumber": 2,
+            "opponents": {
+                "one": {
+                    "name": "Brighton",
+                    "homepage": "https://www.brightonandhovealbion.com/"
+                },
+                "two": {
+                    "name": "Southampt",
+                    "homepage": "https://www.southamptonfc.com/"
+                }
+            },
+            "gameInfo": { "outcome": "X", "comment": "" }
+        },
+        {
+            "gameNumber": 3,
+            "opponents": {
+                "one": {
+                    "name": "Burnley",
+                    "homepage": "https://www.burnleyfootballclub.com/"
+                },
+                "two": {
+                    "name": "Wolverh",
+                    "homepage": "https://www.wolves.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "2", "comment": "" }
+        },
+        {
+            "gameNumber": 4,
+            "opponents": {
+                "one": {
+                    "name": "Crystal P",
+                    "homepage": "https://www.cpfc.co.uk/"
+                },
+                "two": {
+                    "name": "Huddersf.",
+                    "homepage": "https://www.htafc.com/"
+                }
+            },
+            "gameInfo": { "outcome": "2", "comment": "" }
+        },
+        {
+            "gameNumber": 5,
+            "opponents": {
+                "one": {
+                    "name": "Leicester",
+                    "homepage": "https://www.lcfc.com/"
+                },
+                "two": {
+                    "name": "Bournem",
+                    "homepage": "https://www.afcb.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "X", "comment": "" }
+        },
+        {
+            "gameNumber": 6,
+            "opponents": {
+                "one": {
+                    "name": "West Ham",
+                    "homepage": "https://www.whufc.com/"
+                },
+                "two": {
+                    "name": "Everton",
+                    "homepage": "https://www.evertonfc.com/home"
+                }
+            },
+            "gameInfo": { "outcome": "1", "comment": "" }
+        },
+        {
+            "gameNumber": 7,
+            "opponents": {
+                "one": {
+                    "name": "Aston V.",
+                    "homepage": "https://www.avfc.co.uk/"
+                },
+                "two": {
+                    "name": "Blackburn",
+                    "homepage": "https://www.rovers.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "2", "comment": "" }
+        },
+        {
+            "gameNumber": 8,
+            "opponents": {
+                "one": {
+                    "name": "Leeds",
+                    "homepage": "https://www.leedsunited.com/"
+                },
+                "two": {
+                    "name": "Millwall",
+                    "homepage": "https://www.millwallfc.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "X", "comment": "" }
+        },
+        {
+            "gameNumber": 9,
+            "opponents": {
+                "one": {
+                    "name": "Middlesbr",
+                    "homepage": "https://www.mfc.co.uk/"
+                },
+                "two": {
+                    "name": "Norwich",
+                    "homepage": "https://www.canaries.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "2", "comment": "" }
+        },
+        {
+            "gameNumber": 10,
+            "opponents": {
+                "one": {
+                    "name": "Nottingh.",
+                    "homepage": "https://www.nottinghamforest.co.uk/"
+                },
+                "two": {
+                    "name": "Swansea",
+                    "homepage": "https://www.swanseacity.com/"
+                }
+            },
+            "gameInfo": { "outcome": "1", "comment": "" }
+        },
+        {
+            "gameNumber": 11,
+            "opponents": {
+                "one": {
+                    "name": "Reading",
+                    "homepage": "https://www.readingfc.co.uk/"
+                },
+                "two": {
+                    "name": "Preston",
+                    "homepage": "https://www.pnefc.net/"
+                }
+            },
+            "gameInfo": { "outcome": "X", "comment": "" }
+        },
+        {
+            "gameNumber": 12,
+            "opponents": {
+                "one": {
+                    "name": "Sheff.U",
+                    "homepage": "https://www.sufc.co.uk/"
+                },
+                "two": {
+                    "name": "Bristol C",
+                    "homepage": "https://www.bcfc.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "X", "comment": "" }
+        },
+        {
+            "gameNumber": 13,
+            "opponents": {
+                "one": {
+                    "name": "Stoke",
+                    "homepage": "https://www.stokecityfc.com/"
+                },
+                "two": {
+                    "name": "Sheff.W",
+                    "homepage": "https://www.swfc.co.uk/"
+                }
+            },
+            "gameInfo": { "outcome": "1", "comment": "" }
+        }
+    ]
+}
