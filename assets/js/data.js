@@ -4,7 +4,7 @@ export function getStryktipsData() {
             return response.json();
         })
         .then(function (data) {
-            // return data.number_of_games;
-            return data;
+            // Extract relevant data.
+            return data.matches;
         });
 }
